@@ -4,10 +4,11 @@ Contestant in the Fifth United Arab Emirates Undergraduate Research Competition 
 
 
 The code in this repository implements the following features:
-* REAL TIME DATA DOWNLOAD FROM YAHOO API
+* Real time data scraping tool from Yahoo Finance API
+* Bokeh interface for rendering and user interaction of the webpage
 * FLASK API to render images on AWS 
-* PREDICTION USING HOEFDING INEQUALITY
-* COGNITIVE VISUALIZATION
+* Prediction using Hoefding inequality
+* Cognitive visualization 
 
 ## Acknowledgements
 * This work would not have been possible without advice and mentorship Prof Unnikrishnan Pillai 

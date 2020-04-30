@@ -10,5 +10,9 @@ The code in this repository implements the following features:
 * Prediction using Hoefding inequality
 * Cognitive visualization 
 
+## Screenshot-of-App-designed-using-BOKEH-FLASK
+![VERIZON STOCK](https://github.com/Eskaype/Performance-Prediction-and-Risk-Evaluation/blob/master/VZWEB.png)
+![YAHOO STOCK](https://github.com/Eskaype/Performance-Prediction-and-Risk-Evaluation/blob/master/YAHOOWEB.png)
+
 ## Acknowledgements
 * This work would not have been possible without advice and mentorship Prof Unnikrishnan Pillai 
